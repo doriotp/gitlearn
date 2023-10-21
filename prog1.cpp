@@ -7,5 +7,6 @@ int main (){
       sum+=arr[i];
    }
    cout<<"The array sum is "<<sum;
+   cout<<"second commit"<<endl;
    return 0;
 }
