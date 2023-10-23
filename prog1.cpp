@@ -8,5 +8,6 @@ int main (){
    }
    cout<<"The array sum is "<<sum;
    cout<<"second commit"<<endl;
+   cout<<"third commit"<<endl;
    return 0;
 }
