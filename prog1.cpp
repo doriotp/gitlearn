@@ -8,5 +8,7 @@ int main (){
    }
    cout<<"The array sum is "<<sum;
    cout<<"second commit"<<endl;
+   cout<<"example of git add -p"<<endl;
+   cout<<"example of git commit -a"<<endl;
    return 0;
 }
