@@ -9,8 +9,9 @@ seven
 eight
 nineeen
 
-ten 
+teenn 
 eleven
 twelveeen
 thirteen
 fourteen
+
